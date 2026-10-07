@@ -1,0 +1,6 @@
+weights/* filter=lfs diff=lfs merge=lfs -text
+weights/*.pt filter=lfs diff=lfs merge=lfs -text
+*.pt filter=lfs diff=lfs merge=lfs -text
+weights/best.pt filter=lfs diff=lfs merge=lfs -text
+weights/ip102.pt filter=lfs diff=lfs merge=lfs -text
+weights/r2000.pt filter=lfs diff=lfs merge=lfs -text

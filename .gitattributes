@@ -1,0 +1,5 @@
+# Preserve exact archived bytes, including original mixed line endings.
+source/HSDPA-main/** -text
+runtime/** -text
+# Keep Linux job scripts with LF line endings.
+coare/*.sh text eol=lf

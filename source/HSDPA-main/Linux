@@ -1,0 +1,13 @@
+How to upload large files
+-2. clone git respository
+-1. open Git Bash
+0. copy weights folder into git clone folder
+1. Dowload Git Large files Storage: https://git-lfs.com/
+2. Install Git LSF
+3. git lfs install
+4.1. git lfs track "weights/best.pt"
+4.2. git lfs track "another/filename"
+5. git add .
+6. git commit -m "Upload weight file"
+7. git push -u origin main
+

@@ -1,0 +1,5 @@
+# README epoch/pretraining settings; batch size 32 requested by the user.
+# All other ML settings remain 8.3.18 defaults.
+epochs: 200
+batch: 32
+pretrained: false

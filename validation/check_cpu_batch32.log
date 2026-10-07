@@ -1,0 +1,9 @@
+Creating new Ultralytics Settings v0.0.6 file ✅ 
+View Ultralytics Settings with 'yolo settings' or at '/workspace/scratch/bb5b59ccb45c/deliverables/PestNet_COARE_GitHub_Baseline/outputs/ultralytics_settings/settings.json'
+Update Settings with 'yolo settings key=value', i.e. 'yolo settings runs_dir=path/to/dir'. For help see https://docs.ultralytics.com/quickstart/#ultralytics-settings.
+Verified archived source: model YAML, parser, custom Blocks, and trainer unchanged.
+Import path: /workspace/scratch/bb5b59ccb45c/deliverables/PestNet_COARE_GitHub_Baseline/runtime/ultralytics/__init__.py
+WARNING ⚠️ no model scale passed. Assuming scale='ex'.
+Baseline training parameters (unfused): 79,660,747
+PASS: baseline model construction and 640x640 forward pass.
+Baseline inference parameters (fused): 79,638,859 (79.638859 M)

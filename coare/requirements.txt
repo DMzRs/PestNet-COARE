@@ -1,0 +1,15 @@
+# COARE environment choices; the uploaded repository does not supply an environment lock.
+# torch 2.4.1 / torchvision 0.19.1 installed separately from the selected PyTorch index.
+numpy==1.26.4
+matplotlib==3.9.2
+opencv-python-headless==4.10.0.84
+pillow==10.4.0
+PyYAML==6.0.2
+requests==2.32.3
+scipy==1.14.1
+tqdm==4.66.5
+psutil==6.1.0
+py-cpuinfo==9.0.0
+pandas==2.2.3
+seaborn==0.13.2
+ultralytics-thop==2.0.9

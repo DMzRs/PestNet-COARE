@@ -1,0 +1,7 @@
+# Generated training artifacts and local COARE configuration
+*.pt
+/outputs/
+/logs/
+/coare/coare.env
+/coare/__pycache__/
+/runtime/**/__pycache__/
